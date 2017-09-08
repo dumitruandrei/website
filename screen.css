@@ -49,3 +49,7 @@ table {
 
 /* End Reset CSS */
 /* Begin Site Styles */
+
+h1 {
+	font-size: 45px;
+}
