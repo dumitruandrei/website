@@ -1,0 +1,24 @@
+I am a senior Computer Science student at the Illinois Institute of Technology.
+I was born and raised in Romania and came to the US to study.
+
+I chose CS early in high school when I started practicing algorithms. I
+participated in many algorithm competitions (both online and on site) and I felt
+like CS was the right field for me. At some point I got quite bored of solving
+algorithmic challenges every day, so I tried to get involved in “real life”
+projects.
+
+I got to do some hackathons, independent studies with professors at IIT, and
+internships (in Software Engineering). I will graduate in May 2018 and won’t go
+to grad school. I am not a fan of research jobs and I feel like it’s useless to
+do a master to gain engineering experience instead of just practicing an
+engineering job.
+
+I enjoy software engineering and I did a good amount of back end work in C++,
+Java, and Python. I always avoid designing pages and user interfaces, but I feel
+it's about the time to understand the basics of that. I hope that by the end of
+this semester I will know at least the basics of HTML and CSS and I will be able
+to design simple web pages that work fine on any type of screen.
+
+When I'm not in class I usually like going out with friends and practicing some
+sports. My favorite sport is, by far, swimming, but I also enjoy bowling, ping
+pong, and ice skating.
